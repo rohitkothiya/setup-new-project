@@ -1,0 +1,13 @@
+{
+  "files.autoSave": "off",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 6,
+  "workbench.editor.enablePreview": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+  // "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+}
