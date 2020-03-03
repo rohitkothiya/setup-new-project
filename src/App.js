@@ -23,7 +23,7 @@ function App(props) {
         <nav>
           <ul>
             <li>
-              <Link to="/">Homes</Link>
+              <Link to="/">Home</Link>
             </li>
             <li>
               <Link to="/about">About</Link>
